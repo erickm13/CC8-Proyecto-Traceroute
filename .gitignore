@@ -1,0 +1,7 @@
+# Artefactos de compilacion (version C)
+c/*.o
+c/mitraceroute
+
+# Python
+__pycache__/
+*.pyc
